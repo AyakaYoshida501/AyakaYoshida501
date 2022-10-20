@@ -1,5 +1,6 @@
 ### Hi I'm Ayaka 👋
 
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaYoshida501&count_private=true&&layout=compact)
 <!--
 **AyakaYoshida501/AyakaYoshida501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
