@@ -1,7 +1,13 @@
 ### Hi I'm Ayaka 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AyakaYoshida501&show_icons=true&count_private=true)
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AyakaYoshida501&show_icons=true&count_private=true)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaYoshida501&count_private=true&&layout=compact)
+ -->
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={AyakaYoshida501}&layout=compact&show_icons=true&count_private=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={AyakaYoshida501}&count_private=true&show_icons=ture" />
+</p>
+
 <!--
 **AyakaYoshida501/AyakaYoshida501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
